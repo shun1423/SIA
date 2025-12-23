@@ -1,0 +1,8 @@
+이 프로젝트는 SIA (Self-Initiating Agent) MVP 데모야.
+Streamlit 기반이고, Anthropic Claude API 사용해.
+
+프로젝트 문서:
+- docs/SIA_WHITEPAPER.md: 전체 아키텍처 설명
+- docs/MVP_CHECKLIST.md: 구현 체크리스트
+
+작업할 때 항상 이 문서들 참고해서 일관성 유지해줘.
