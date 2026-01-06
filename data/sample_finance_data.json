@@ -1,0 +1,51 @@
+[
+  {
+    "id": "txn_1",
+    "date": "2025-01-15",
+    "category": "배달앱",
+    "amount": 25000,
+    "merchant": "배달의민족",
+    "description": "저녁 식사"
+  },
+  {
+    "id": "txn_2",
+    "date": "2025-01-15",
+    "category": "배달앱",
+    "amount": 18000,
+    "merchant": "요기요",
+    "description": "점심 식사"
+  },
+  {
+    "id": "txn_3",
+    "date": "2025-01-14",
+    "category": "배달앱",
+    "amount": 32000,
+    "merchant": "배달의민족",
+    "description": "저녁 식사 + 음료"
+  },
+  {
+    "id": "txn_4",
+    "date": "2025-01-13",
+    "category": "구독",
+    "amount": 9900,
+    "merchant": "넷플릭스",
+    "description": "월간 구독료"
+  },
+  {
+    "id": "txn_5",
+    "date": "2025-01-12",
+    "category": "배달앱",
+    "amount": 15000,
+    "merchant": "요기요",
+    "description": "점심 식사"
+  },
+  {
+    "id": "txn_6",
+    "date": "2025-01-11",
+    "category": "구독",
+    "amount": 5900,
+    "merchant": "스포티파이",
+    "description": "월간 구독료"
+  }
+]
+
